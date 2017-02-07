@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Android | My Octopress Blog]]></title>
+  <link href="http://qq523252668.github.io/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://qq523252668.github.io/"/>
+  <updated>2017-02-07T23:55:21+08:00</updated>
+  <id>http://qq523252668.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[枯荣]]></title>
+    <link href="http://qq523252668.github.io/blog/2017/02/07/rongbo/"/>
+    <updated>2017-02-07T23:10:31+08:00</updated>
+    <id>http://qq523252668.github.io/blog/2017/02/07/rongbo</id>
+    <content type="html"><![CDATA[<h1>你好枯荣大师</h1>
+
+<h2>你可以释放大招</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标量</code></p>
+
+<ul>
+<li>Android
+
+<ul>
+<li>THH</li>
+<li>TTT</li>
+<li>JD
+
+<ul>
+<li>DDD
+
+<ul>
+<li>DDD</li>
+<li>DD2</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>PHP</li>
+<li>HTML
+
+<blockquote><p>引用</p></blockquote></li>
+</ul>
+
+
+<p><a href="http://www.baidu.com">枯荣</a></p>
+
+<p><img src="https://www.baidu.com/img/bd_logo1.png" alt="image" /></p>
+
+<p><video width='640' height='320' preload='metadata' controls poster='https://www.baidu.com/img/bd_logo1.png">https://www.baidu.com/img/bd_logo1.png</a>'><source src='http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4">http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4</a>' ></video></p>
+
+<pre><code>public class jikexueyuan{
+    public static void main(){
+        system.out.println("ccc");
+}}
+</code></pre>
+
+<pre><code class="java This is a java http://www.baidu.com">public class jikexueyuan{
+    public static void main(){
+        system.out.println("ccc");
+}}
+</code></pre>
+
+<p><figure class='code'><figcaption><span>This is a java <a href="http://www.jikexueyuan.com">http://www.jikexueyuan.com</a> link </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'>    <span class="kd">public</span> <span class="kd">class</span> <span class="nc">jikexueyuan</span><span class="o">{</span>
+</span><span class='line'>    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(){</span>
+</span><span class='line'>        <span class="n">system</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(&amp;</span><span class="n">ldquo</span><span class="o">;</span><span class="n">ccc</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="o">;);</span>
+</span><span class='line'>    <span class="o">}</span>
+</span><span class='line'><span class="o">}&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;</span>
+</span></code></pre></td></tr></table></div></figure></p>
+]]></content>
+  </entry>
+  
+</feed>
